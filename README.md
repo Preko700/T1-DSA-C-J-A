@@ -43,5 +43,5 @@ Las contribuciones son bienvenidas. Para colaborar:
 4. Envía un **pull request**.
 
 ## Licencia
-Este proyecto está bajo la licencia MIT.
+Este proyecto está bajo la licencia Apache License 2.0.
 
